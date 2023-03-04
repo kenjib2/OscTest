@@ -13,7 +13,6 @@ using namespace std;
 const float INITIAL_OSC_COUNT = 30;
 const float OSC_FREQ = 220.0f;
 const float OSC_AMP = 0.1f;
-const int OSC_WAVEFORM = Oscillator::WAVE_SQUARE;
 const int SAMPLES_PER_BLOCK = 48;
 const int MONITOR_CYCLES = 100;
 const int NUM_WAVEFORMS = 8;
